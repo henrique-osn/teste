@@ -2,4 +2,4 @@
 Repositório teste da aula PAM I
 
 # Modificação
-Modificação teste do readme.me
+Modificação teste do README.md
